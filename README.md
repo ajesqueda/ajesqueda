@@ -9,7 +9,7 @@ code.
 
 ## What I'm focused on
 
-- **Data engineering:** pipelines, SQL, Spark, Airflow, dbt and cloud data platforms
+- **Data engineering:** pipelines, DataBricks , SQL, Spark, Airflow, dbt and cloud data platforms
 - **Machine learning foundations:** probability, optimization and linear algebra, implemented from scratch
 - **Computer systems:** how CPUs, memory, operating systems, storage and networks work under the hood
 - **Applied AI:** taking models from concept to something that runs
