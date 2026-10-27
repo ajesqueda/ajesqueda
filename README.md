@@ -1,9 +1,9 @@
 # Hi, I'm Alfonso 👋
 
-**Data engineer → AI engineer in progress.** I build production data pipelines for
-enterprise analytics, and I'm working toward an **MS in Computer Science and AI at
-Boston University** so I can own the models those pipelines feed, not just the
-plumbing underneath them.
+**Data engineer growing into a Data + AI Engineer.** I build production data
+pipelines for enterprise analytics, and I'm working toward an **MS in Computer Science
+and AI at Boston University** so I can own both the data platform *and* the models it
+feeds.
 
 📍 Lenexa, Kansas
 
@@ -56,8 +56,9 @@ plumbing underneath them.
 
 ## 🎯 Current goals
 
-- **Professional:** move from data engineer to an **AI engineer** role, where I build,
-  deploy and own models end to end, from ingestion to inference.
+- **Professional:** grow into a **Data + AI Engineer** role. Data engineering stays my
+  foundation, and I add the ability to build, deploy and own models on top of it, end
+  to end from ingestion to inference.
 - **Academic:** finish the MS with a solid grasp of ML theory, deep learning and
   systems, the CS foundations I didn't get by coming up through tools.
 - **Learning in public:** turn what I study each week into small, tested code here,
