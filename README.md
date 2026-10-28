@@ -68,6 +68,7 @@ feeds.
 
 | Repo | What's inside |
 |------|---------------|
+| [garmin-health-lakehouse](https://github.com/ajesqueda/garmin-health-lakehouse) | **Featured project:** a bronze → silver → gold Databricks lakehouse over my Garmin health data, running daily, with a gold feature table for a future recovery-score model |
 | [ml-from-scratch](https://github.com/ajesqueda/ml-from-scratch) | ML math implemented from scratch and tested: MLE → least squares, vector similarity, Gaussian elimination |
 | [data-engineering-lab](https://github.com/ajesqueda/data-engineering-lab) | Data engineering concepts as runnable projects, starting with crash-safe file writes |
 | [ai-concepts-lab](https://github.com/ajesqueda/ai-concepts-lab) | Computer systems and AI concept demos, such as a toy CPU running the fetch-decode-execute cycle |
