@@ -5,7 +5,7 @@ pipelines for enterprise analytics, and I'm working toward an **MS in Computer S
 and AI at Boston University** so I can own both the data platform *and* the models it
 feeds.
 
-📍 Lenexa, Kansas
+📍 Lenexa, Kansas · 📄 [Resume](https://github.com/ajesqueda/professional-portfolio/blob/main/resume/README.md)
 
 ---
 
@@ -73,6 +73,7 @@ feeds.
 | [data-engineering-lab](https://github.com/ajesqueda/data-engineering-lab) | Data engineering concepts as runnable projects, starting with crash-safe file writes |
 | [ai-concepts-lab](https://github.com/ajesqueda/ai-concepts-lab) | Computer systems and AI concept demos, such as a toy CPU running the fetch-decode-execute cycle |
 | [til](https://github.com/ajesqueda/til) | Today I Learned: short notes with code, such as Java for Python developers |
+| [professional-portfolio](https://github.com/ajesqueda/professional-portfolio) | My [resume](https://github.com/ajesqueda/professional-portfolio/blob/main/resume/README.md) and a portfolio landing page |
 
 Every change in these repos goes through a feature branch and pull request with
 lint and tests in CI, then is promoted `dev` → `qa` → `main`.
